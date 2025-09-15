@@ -1,0 +1,3 @@
+MONGO_URI="your mongo url";
+PORT="port"
+JWT_SECRET="your secret key"
