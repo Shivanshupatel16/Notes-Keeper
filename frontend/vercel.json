@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://notes-keeper-kpdp.onrender.com/api/$1" }
+  ]
+}
